@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(239, 233, 246);
+}
+h1{
+    font-size: 40px;
+    color: rgb(47, 208, 208);
+}
+img.style1{
+    width: 450px;
+}
+h2.keiei{
+    color: blueviolet;
+}
+h2.kaikei{
+    color: blue;
+}
+h2.jou{
+    color: rgb(10, 197, 134);
+}
